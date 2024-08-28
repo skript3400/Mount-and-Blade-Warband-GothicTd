@@ -1,6 +1,8 @@
 ### Mod Description
 This mod is inspired by Yberion (Steam-Name) who made a Native-compatible Mount and Blade Warband 
-Tower defense mod back in the day. Bots spawn and try to kill the Players teams "King Harlaus" while players can try to survive 20 Waves. Players get rewarded for reaching kill-thresholds with increasingly powerful modded weapons (see fire arrows below), starting out just with throwing stones. If all 20 waves are completed players get bonus kills. 
+Tower defense mod back in the day. Bots spawn and try to kill the Players teams "King Harlaus" while players can try to survive 20 Waves. Players get rewarded for reaching kill-thresholds with increasingly powerful modded weapons (see fire arrows below), starting out just with throwing stones. If all 20 waves are completed players get bonus kills.
+This mod isnt as extensive and polished as the original was, it was tested and is just working.  
+Use this as baseline for improvements. 
 
 <img src="application-screenshot.png" alt="Application Screensho" width="200"/>
 
