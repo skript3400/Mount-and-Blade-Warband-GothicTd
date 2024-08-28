@@ -51,14 +51,14 @@ A custom map with borders that guide the enemy bots is needed for the game to wo
 The mod contains functionality to store a players kills (1 gold = 1 kill) in a external database via HTTP requests. Upon the player joined event the gold gets loaded from the database and the player is equipped accordingly prevent progress loss in this mod.
 Follow the changes in module_scripts and setup a database (eg mySql DB) thats compatible and available to the machine, where the server runs on. To make this work: while Steam still supports this, players can be uniquely identified through a player uid. This and the gold are the minimum required fields to be stored in the external database.
 
-#### Names of all used Original Resources (to search for):
-Adimi Tools 1.5.2 1.173
-Main File-3478-1-0-1
-mb_warband_1174.exe
-mb_warband_dedicated_1174
-mb_warband_module_system_1166_lav
-mb_warband_module_system_1171
-Morghs_MB_WB-WFAS_Editor_v1_50
-OpenBRF
-quick_scene_chooser_files
-WSE v4.8.4
+#### Names of all used Original Resources (to search for):  
+Adimi Tools 1.5.2 1.173  
+Main File-3478-1-0-1  
+mb_warband_1174.exe  
+mb_warband_dedicated_1174  
+mb_warband_module_system_1166_lav  
+mb_warband_module_system_1171  
+Morghs_MB_WB-WFAS_Editor_v1_50  
+OpenBRF  
+quick_scene_chooser_files  
+WSE v4.8.4  
