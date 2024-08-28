@@ -1,0 +1,435 @@
+    (
+    "multiplayer_tdm",mtf_battle_mode,-1, #team_deathmatch mode
+    "You lead your men to battle.",
+    [
+      (0,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (1,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (2,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (3,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (4,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (5,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (6,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (7,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+
+      (8,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (9,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (10,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (11,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (12,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (13,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (14,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (15,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+
+      (16,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (17,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (18,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (19,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (20,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (21,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (22,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (23,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+
+      (24,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (25,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (26,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (27,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (28,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (29,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (30,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+      (31,mtef_visitor_source|mtef_team_0,0,aif_start_alarmed,1,[]),
+
+      (32,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (33,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (34,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (35,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (36,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (37,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (38,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (39,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+
+      (40,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (41,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (42,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (43,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (44,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (45,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (46,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (47,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+
+      (48,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (49,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (50,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (51,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (52,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (53,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (54,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (55,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+
+      (56,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (57,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (58,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (59,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (60,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (61,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (62,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+      (63,mtef_visitor_source|mtef_team_1,0,aif_start_alarmed,1,[]),
+     ],
+    [
+		###################################tdm #begin##########################################
+		
+#mod events
+		
+	##server messages
+	   (1, 0, 0, [], #time interval  for regular server message
+       [
+			
+       ]),
+		
+			  
+	##gold, database	 	
+	   (ti_server_player_joined, 0, 0, [], #load player gold when player joined
+       [
+         (store_trigger_param_1, ":player_no"),
+         (call_script, "script_load_player_gold", ":player_no"),
+       ]),
+		 
+	  (0, 0, 0, [(eq, 1,2)], #placeholder to load manually player gold
+	  [
+			(try_for_players, ":player", 1),
+			(player_is_active, ":player"),
+			(call_script, "script_load_player_gold", ":player"),
+			(try_end),
+	  ]),
+	  
+	##server initial settings and wave management
+	  (ti_server_player_joined, 0, 0, [], #set start wave when, first player joined, todo fix this so that it works before mission start
+       [
+		 (store_trigger_param_1, ":player_no"),
+		 (call_script, "script_set_team_score", 1, 1),
+		 (team_get_score, ":team_1_score" ,0),
+		 (team_get_score, ":team_2_score" ,1),
+		 (try_begin),
+		 (eq, ":team_1_score", 0),
+		 (eq, ":team_2_score", 0),
+		  (call_script, "script_set_team_score", 1, 1),
+		 (try_end),
+		 #do always: update enemy bot count
+		 (call_script, "script_send_bot_info_to_player", ":player_no"),
+		 #send current wave
+		 (assign, reg0, ":team_2_score"),
+		 (call_script, "script_send_server_message_to_player", ":player_no", "str_current_wave"),
+       ]),
+	   
+	   (ti_before_mission_start ,0,0,[],[ #set bot count at beginning 
+			
+			(call_script, "script_set_num_bots", 0, 6),
+			(call_script, "script_set_num_bots", 1, 1),
+			(assign, "$g_is_wave_active", 0), #and set wave as inactive
+	   ]),
+	   
+	   	(ti_after_mission_start ,0,0,[],[ #set bot count at beginning 
+			(call_script, "script_send_server_message_to_players", "str_next_wave_incoming"), #announce
+	   ]),
+	
+	
+	   (0,0,0, [(eq, "$g_is_wave_active",1)], [ ##spawn bots, until
+			(assign, ":num_bots_t_1"),
+			(try_for_agents, ":agent_no"),
+				(agent_is_non_player, ":agent_no"),
+				(agent_is_alive, ":agent_no"),
+				(agent_is_human, ":agent_no"),
+				(agent_get_team, ":agent_team_no", ":agent_no"),
+				(eq, ":agent_team_no", 0),
+				(val_add, ":num_bots_t_1", 1),
+			(try_end),
+			(ge, ":num_bots_t_1", "$g_multiplayer_num_bots_team_1"),
+			(assign, "$g_is_wave_active", 2), #(no more bot-spawn phase)
+	   ]),
+	   
+	   
+	   (1,10,0, [(eq, "$g_is_wave_active",0)],[ #increase bot count  if wave is over
+			
+				(assign, ":num_bots", 5), #increase bot-amount to 5bots + wave_no
+				(team_get_score, ":team_2_score", 1),
+				(val_add, ":num_bots", ":team_2_score"),
+				(call_script, "script_set_num_bots", 0, ":num_bots"),
+				#announce next wave
+				(assign, reg0, ":team_2_score"),
+				(call_script, "script_send_server_message_to_players", "str_next_wave_incoming"),
+				(assign, "$g_is_wave_active", 1),
+	   ]),
+	   
+		
+#mod events end
+
+
+
+	 common_battle_init_banner,
+
+      multiplayer_server_check_polls,
+
+      (ti_on_agent_spawn, 0, 0, [],
+       [
+         (store_trigger_param_1, ":agent_no"),
+         (call_script, "script_multiplayer_server_on_agent_spawn_common", ":agent_no"),
+         ]),
+      
+      (ti_server_player_joined, 0, 0, [],
+       [
+         (store_trigger_param_1, ":player_no"),
+         (call_script, "script_multiplayer_server_player_joined_common", ":player_no"),
+         ]),
+
+      (ti_before_mission_start, 0, 0, [], 
+       [
+         (assign, "$g_multiplayer_game_type", multiplayer_game_type_battle),
+         (call_script, "script_multiplayer_server_before_mission_start_common"),
+		
+         (call_script, "script_multiplayer_init_mission_variables"),
+         (call_script, "script_multiplayer_remove_destroy_mod_targets"),
+         (call_script, "script_multiplayer_remove_headquarters_flags"),
+         ]),
+
+      (ti_after_mission_start, 0, 0, [],
+       [   
+	   
+         (set_spawn_effector_scene_prop_kind, 0, -1), #during this mission, agents of "team 0" will try to spawn around scene props with kind equal to -1(no effector for this mod)
+         (set_spawn_effector_scene_prop_kind, 1, -1), #during this mission, agents of "team 1" will try to spawn around scene props with kind equal to -1(no effector for this mod)
+
+         (call_script, "script_initialize_all_scene_prop_slots"),
+         
+         (call_script, "script_multiplayer_move_moveable_objects_initial_positions"),
+
+         (assign, "$g_multiplayer_ready_for_spawning_agent", 1),
+         ]),
+
+      (ti_on_multiplayer_mission_end, 0, 0, [], 
+       [
+		#modded dont need this
+         #GLORIOUS_MOTHER_FACTION achievement
+        # (try_begin),
+        #   (multiplayer_get_my_player, ":my_player_no"),
+        #   (is_between, ":my_player_no", 0, multiplayer_max_possible_player_id),
+        #   (player_get_team_no, ":my_player_team", ":my_player_no"),
+        #   (lt, ":my_player_team", multi_team_spectator),
+        #   (team_get_score, ":team_1_score", 0),
+        #   (team_get_score, ":team_2_score", 1),
+        #   (assign, ":continue", 0),
+        #   (try_begin),
+        #     (eq, ":my_player_team", 0),
+        #     (gt, ":team_1_score", ":team_2_score"),
+        #     (assign, ":continue", 1),
+        #   (else_try),
+        #     (eq, ":my_player_team", 1),
+        #     (gt, ":team_2_score", ":team_1_score"),
+        #     (assign, ":continue", 1),
+        #   (try_end),
+        #   (eq, ":continue", 1),
+        #   (unlock_achievement, ACHIEVEMENT_GLORIOUS_MOTHER_FACTION),
+        # (try_end),
+         #GLORIOUS_MOTHER_FACTION achievement end
+
+         (call_script, "script_multiplayer_event_mission_end"),
+         
+         (assign, "$g_multiplayer_stats_chart_opened_manually", 0),
+         (start_presentation, "prsnt_multiplayer_stats_chart"),
+         ]),
+
+      (ti_on_agent_killed_or_wounded, 0, 0, [], #Setting the scores for both teams
+       [
+         (store_trigger_param_1, ":dead_agent_no"), 
+         (store_trigger_param_2, ":killer_agent_no"), 
+         (call_script, "script_multiplayer_server_on_agent_killed_or_wounded_common", ":dead_agent_no", ":killer_agent_no"),	 
+		 #adding 1 score points to killer agent's team. (special for "headquarters" and "team deathmatch" mod) 
+		 #modded test, if all bots are dead and if so, set wave as inactive	
+			(assign, ":is_wave_over", 1),
+			#test if there are players in team_2, if it was suicide and bots didnt spawn jet it would count as win
+			(assign, ":are_there_players", 0),
+			(try_for_players, ":player_no", 1),
+				(player_get_team_no, ":player_team", ":player_no"),
+				(eq, ":player_team", 1), #if player is in team 2 i think
+				(val_add, ":are_there_players", 1),
+			(try_end),
+			(gt, ":are_there_players", 0), #this has to be true
+			(assign, ":max_agents_end_cond", 1000), #there should be not more than 1000 agents on 
+			(try_for_range, ":agent_no", 0, ":max_agents_end_cond"), #check if no agent team1 is alive
+			(try_for_agents, ":agent_no"), 
+				(agent_get_team, ":agent_team", ":agent_no"),
+				#check if it was king harlaus 
+				(try_begin),
+					(eq, ":agent_team", 1),
+					(agent_is_human, ":agent_no"),
+					(agent_is_non_player, ":agent_no"),
+					(neg|agent_is_alive, ":agent_no"),
+					#if its harlaus set team 1 score to 1
+					(team_get_score, ":team1_score", 0),
+					(assign, ":team1_score", 1),
+					(call_script, "script_set_team_score", 0, ":team1_score"),
+					(assign, "$g_is_wave_active", 0),
+					#and end loop
+					(assign, ":max_agents_end_cond", ":agent_no"),
+				(try_end),
+				(eq, ":agent_team", 0),
+				(agent_is_human, ":agent_no"),
+				(agent_is_non_player, ":agent_no"),
+				(agent_is_alive, ":agent_no"),
+				(val_sub, ":is_wave_over", 1),
+				#if one player is still alive, stop the loop, wave is still active
+				(lt, ":is_wave_over", 1),
+				(assign, ":max_agents_end_cond", ":agent_no"),
+			(try_end),
+			(try_begin),
+				(eq, ":is_wave_over", 1),
+				(team_get_score, ":team2_score", 1),
+				(val_add, ":team2_score", 1),
+				(call_script, "script_set_team_score", 1, ":team2_score"),
+				(call_script, "script_send_score_info_to_players"),
+				(assign, "$g_is_wave_active", 0),
+			(try_end),
+         ]),
+
+      (1, 0, 0, [],
+       [
+         (multiplayer_is_server),
+         (get_max_players, ":num_players"),
+         (try_for_range, ":player_no", 0, ":num_players"),
+           (player_is_active, ":player_no"),
+           (neg|player_is_busy_with_menus, ":player_no"),
+
+           (player_get_team_no, ":player_team", ":player_no"), #if player is currently spectator do not spawn his agent
+           (lt, ":player_team", multi_team_spectator),
+
+           (player_get_troop_id, ":player_troop", ":player_no"), #if troop is not selected do not spawn his agent
+           (ge, ":player_troop", 0),
+
+           (player_get_agent_id, ":player_agent", ":player_no"),
+           (assign, ":spawn_new", 0),
+           (try_begin),
+             (player_get_slot, ":player_first_spawn", ":player_no", slot_player_first_spawn),
+             (eq, ":player_first_spawn", 1),
+             (assign, ":spawn_new", 1),
+             (player_set_slot, ":player_no", slot_player_first_spawn, 0),
+           (else_try),
+             (try_begin),
+               (lt, ":player_agent", 0),
+               (assign, ":spawn_new", 1),
+             (else_try),
+               (neg|agent_is_alive, ":player_agent"),
+               (agent_get_time_elapsed_since_removed, ":elapsed_time", ":player_agent"),
+               (gt, ":elapsed_time", "$g_multiplayer_respawn_period"),
+               (assign, ":spawn_new", 1),
+             (try_end),             
+           (try_end),
+           (eq, ":spawn_new", 1),
+           (call_script, "script_multiplayer_buy_agent_equipment", ":player_no"), #assuming that only buys for players not bots
+
+           (troop_get_inventory_slot, ":has_item", ":player_troop", ek_horse),
+           (try_begin),
+             (ge, ":has_item", 0),
+             (assign, ":is_horseman", 1),
+           (else_try),
+             (assign, ":is_horseman", 0),
+           (try_end),
+
+           (call_script, "script_multiplayer_find_spawn_point", ":player_team", 1, ":is_horseman"), 
+           (player_spawn_new_agent, ":player_no", reg0),
+         (try_end),
+         ]),
+
+      (1, 0, 0, [], #do this in every new frame, but not at the same time
+       [
+         (multiplayer_is_server),
+         #(store_mission_timer_a, ":mission_timer"),
+         #check from begin, harlaus has to spawn at beginning
+		 (try_begin),
+			#if round is not in spawn phase
+			(neq, "$g_is_wave_active", 1),
+			#check if harlaus has to spawn
+			(try_begin),
+				(assign, ":team_2_count", 0),
+				(try_for_agents, ":cur_agent"),
+					(agent_is_non_player, ":cur_agent"),
+					(agent_is_human, ":cur_agent"),
+					(agent_is_alive, ":cur_agent"),
+					(agent_get_team, ":cur_team", ":cur_agent"),
+					(try_begin),
+						(eq, ":cur_team", 1),
+						(val_add, ":team_2_count", 1),
+					(try_end),
+				(try_end), #if has to spawn, then spawn like native script
+				(store_sub, "$g_multiplayer_num_bots_required_team_2", "$g_multiplayer_num_bots_team_2", ":team_2_count"),
+				(assign, "$g_multiplayer_num_bots_required_team_1", 0),
+				(val_max, "$g_multiplayer_num_bots_required_team_2", 0),	
+			(else_try), #else dont spawn anything
+				(assign, "$g_multiplayer_num_bots_required_team_1", 0),
+				(assign, "$g_multiplayer_num_bots_required_team_2", 0),
+			(try_end),
+			#if round is in spawn phase
+		 (else_try),
+			##standard native code
+			(assign, ":team_1_count", 0),
+			(assign, ":team_2_count", 0),
+			(try_for_agents, ":cur_agent"),
+			(agent_is_non_player, ":cur_agent"),
+			(agent_is_human, ":cur_agent"),
+			(assign, ":will_be_counted", 0),
+			(try_begin),
+				(agent_is_alive, ":cur_agent"),
+				(assign, ":will_be_counted", 1), #alive so will be counted
+			(else_try),
+				(agent_get_time_elapsed_since_removed, ":elapsed_time", ":cur_agent"),
+				(le, ":elapsed_time", "$g_multiplayer_respawn_period"),
+				(assign, ":will_be_counted", 1), 
+			(try_end),
+			(eq, ":will_be_counted", 1),
+			(agent_get_team, ":cur_team", ":cur_agent"),
+			(try_begin),
+				(eq, ":cur_team", 0),
+				(val_add, ":team_1_count", 1),
+			(else_try),
+				(eq, ":cur_team", 1),
+				(val_add, ":team_2_count", 1),
+            (try_end),
+			(try_end),
+			(store_sub, "$g_multiplayer_num_bots_required_team_1", "$g_multiplayer_num_bots_team_1", ":team_1_count"),
+			(store_sub, "$g_multiplayer_num_bots_required_team_2", "$g_multiplayer_num_bots_team_2", ":team_2_count"),
+			(val_max, "$g_multiplayer_num_bots_required_team_1", 0),
+			(val_max, "$g_multiplayer_num_bots_required_team_2", 0),
+		 (try_end),
+         ]),
+      
+      multiplayer_server_spawn_bots,
+      multiplayer_server_manage_bots,
+		
+	  #modded no auto balance needed
+      #(20, 0, 0, [],
+      #[
+      #   (multiplayer_is_server),
+      #   #auto team balance control in every 20 seconds (tdm)
+      #   (call_script, "script_check_team_balance"),
+      #   ]),
+
+      multiplayer_server_check_end_map,
+        
+      (ti_tab_pressed, 0, 0, [],
+       [
+         (try_begin),
+           (eq, "$g_multiplayer_mission_end_screen", 0),
+           (assign, "$g_multiplayer_stats_chart_opened_manually", 1),
+           (start_presentation, "prsnt_multiplayer_stats_chart"),
+         (try_end),
+         ]),
+
+      multiplayer_once_at_the_first_frame,
+      multiplayer_battle_window_opened,
+
+      (ti_escape_pressed, 0, 0, [],
+       [
+         (neg|is_presentation_active, "prsnt_multiplayer_escape_menu"),
+         (neg|is_presentation_active, "prsnt_multiplayer_stats_chart"),
+         (eq, "$g_waiting_for_confirmation_to_terminate", 0),
+         (start_presentation, "prsnt_multiplayer_escape_menu"),
+         ]),
+      ],
+  ),
+    

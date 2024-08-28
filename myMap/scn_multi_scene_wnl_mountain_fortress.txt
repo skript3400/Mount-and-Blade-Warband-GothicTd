@@ -1,0 +1,4 @@
+scn_multi_scene_wnl_mountain_fortress multi_scene_wnl_mountain_fortress 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b
+0
+0
+outer_terrain_plain 
